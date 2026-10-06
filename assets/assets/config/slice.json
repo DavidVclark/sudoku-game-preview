@@ -1,18 +1,124 @@
 {
   "version": 1,
-  "locked": {"lifeCap": 5, "regenerationMinutes": [5,10,15,20,25], "inventoryCap": 10, "continuationMoves": 5},
-  "balance": {"continuationPrice": 200, "retryPrice": 500, "unlimitedMinutes": 30},
-  "prototype": {"startingLives": 5, "startingCoins": 2000, "startingPowerups": 3, "winCoins": 0},
+  "locked": {
+    "lifeCap": 5,
+    "regenerationMinutes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "inventoryCap": 10,
+    "continuationMoves": 5
+  },
+  "balance": {
+    "continuationPrice": 200,
+    "retryPrice": 500,
+    "unlimitedMinutes": 30
+  },
+  "prototype": {
+    "startingLives": 5,
+    "startingCoins": 2000,
+    "startingPowerups": 3,
+    "winCoins": 0
+  },
   "levels": [
-    {"blanks":35,"moves":43,"world":"Earth’s Core","environment":"Molten heart"},
-    {"blanks":39,"moves":51,"world":"Earth’s Core","environment":"Molten heart"},
-    {"blanks":37,"moves":44,"world":"Earth’s Core","environment":"Molten heart"},
-    {"blanks":42,"moves":53,"world":"Earth’s Core","environment":"Magma chambers"},
-    {"blanks":40,"moves":47,"world":"Earth’s Core","environment":"Magma chambers"},
-    {"blanks":44,"moves":56,"world":"Earth’s Core","environment":"Cooling stone"},
-    {"blanks":41,"moves":50,"world":"Earth’s Core","environment":"Cooling stone"},
-    {"blanks":45,"moves":55,"world":"Earth’s Core","environment":"Cooling stone"},
-    {"blanks":43,"moves":54,"world":"Earth’s Core","environment":"First crystals"},
-    {"blanks":46,"moves":60,"world":"Earth’s Core","environment":"First crystals"}
-  ]
+    {
+      "blanks": 35,
+      "moves": 43,
+      "world": "Earth’s Core",
+      "environment": "Molten heart",
+      "homeEnvironment": "core",
+      "difficulty": "easy",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 39,
+      "moves": 51,
+      "world": "Earth’s Core",
+      "environment": "Molten heart",
+      "homeEnvironment": "core",
+      "difficulty": "easy",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 37,
+      "moves": 44,
+      "world": "Earth’s Core",
+      "environment": "Molten heart",
+      "homeEnvironment": "core",
+      "difficulty": "medium",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 42,
+      "moves": 53,
+      "world": "Earth’s Core",
+      "environment": "Magma chambers",
+      "homeEnvironment": "core",
+      "difficulty": "easy",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 40,
+      "moves": 47,
+      "world": "Earth’s Core",
+      "environment": "Magma chambers",
+      "homeEnvironment": "core",
+      "difficulty": "hard",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 44,
+      "moves": 56,
+      "world": "Earth’s Core",
+      "environment": "Cooling stone",
+      "homeEnvironment": "core",
+      "difficulty": "medium",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 41,
+      "moves": 50,
+      "world": "Earth’s Core",
+      "environment": "Cooling stone",
+      "homeEnvironment": "core",
+      "difficulty": "easy",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 45,
+      "moves": 55,
+      "world": "Earth’s Core",
+      "environment": "Cooling stone",
+      "homeEnvironment": "core",
+      "difficulty": "extremelyHard",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 43,
+      "moves": 54,
+      "world": "Earth’s Core",
+      "environment": "First crystals",
+      "homeEnvironment": "core",
+      "difficulty": "medium",
+      "difficultyStatus": "prototypeUncalibrated"
+    },
+    {
+      "blanks": 46,
+      "moves": 60,
+      "world": "Earth’s Core",
+      "environment": "First crystals",
+      "homeEnvironment": "core",
+      "difficulty": "hard",
+      "difficultyStatus": "prototypeUncalibrated"
+    }
+  ],
+  "homeEnvironments": {
+    "core": {
+      "background": "assets/environments/core/core.png",
+      "embers": true
+    }
+  }
 }
