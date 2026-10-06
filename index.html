@@ -24,21 +24,27 @@
     body { position: fixed; inset: 0; height: 100dvh; touch-action: none; }
   </style>
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Earth Core — a Sudoku journey.">
+  <meta name="description" content="NANPURE WRLD — A Sudoku Journey.">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Earth Core">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <meta name="apple-mobile-web-app-title" content="NANPURE WRLD">
+  <link rel="apple-touch-icon" href="assets/assets/brand/nanpure-wrld.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="image/svg+xml" href="brand-icon.svg"/>
 
-  <title>Earth Core</title>
+  <title>NANPURE WRLD</title>
   <link rel="manifest" href="manifest.json">
 </head>
-<body style="margin:0;background:#131c2d">
+<body style="margin:0;background:#060c20">
+  <div id="brand-loading" role="status" aria-label="Loading NANPURE WRLD" style="position:fixed;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;background:radial-gradient(ellipse at top,#283475,#060c20);color:#d9f4ff;font-family:Arial,sans-serif;text-align:center">
+    <strong style="font-size:clamp(24px,7vw,42px);letter-spacing:2px">NANPURE <span style="color:#ffc749">WRLD</span></strong>
+    <p style="letter-spacing:3px;font-size:13px">A Sudoku Journey</p>
+    <p style="color:#8caacb;font-size:12px">Opening your journey…</p>
+  </div>
+  <script>window.addEventListener('flutter-first-frame', function () { document.getElementById('brand-loading')?.remove(); });</script>
   <!--
     You can customize the "flutter_bootstrap.js" script.
     This is useful to provide a custom configuration to the Flutter loader

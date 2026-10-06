@@ -4,15 +4,15 @@
   "balance": {"continuationPrice": 200, "retryPrice": 500, "unlimitedMinutes": 30},
   "prototype": {"startingLives": 5, "startingCoins": 2000, "startingPowerups": 3, "winCoins": 0},
   "levels": [
-    {"blanks":35,"moves":43,"environment":"Molten heart"},
-    {"blanks":39,"moves":51,"environment":"Molten heart"},
-    {"blanks":37,"moves":44,"environment":"Molten heart"},
-    {"blanks":42,"moves":53,"environment":"Magma chambers"},
-    {"blanks":40,"moves":47,"environment":"Magma chambers"},
-    {"blanks":44,"moves":56,"environment":"Cooling stone"},
-    {"blanks":41,"moves":50,"environment":"Cooling stone"},
-    {"blanks":45,"moves":55,"environment":"Cooling stone"},
-    {"blanks":43,"moves":54,"environment":"First crystals"},
-    {"blanks":46,"moves":60,"environment":"First crystals"}
+    {"blanks":35,"moves":43,"world":"Earth’s Core","environment":"Molten heart"},
+    {"blanks":39,"moves":51,"world":"Earth’s Core","environment":"Molten heart"},
+    {"blanks":37,"moves":44,"world":"Earth’s Core","environment":"Molten heart"},
+    {"blanks":42,"moves":53,"world":"Earth’s Core","environment":"Magma chambers"},
+    {"blanks":40,"moves":47,"world":"Earth’s Core","environment":"Magma chambers"},
+    {"blanks":44,"moves":56,"world":"Earth’s Core","environment":"Cooling stone"},
+    {"blanks":41,"moves":50,"world":"Earth’s Core","environment":"Cooling stone"},
+    {"blanks":45,"moves":55,"world":"Earth’s Core","environment":"Cooling stone"},
+    {"blanks":43,"moves":54,"world":"Earth’s Core","environment":"First crystals"},
+    {"blanks":46,"moves":60,"world":"Earth’s Core","environment":"First crystals"}
   ]
 }
