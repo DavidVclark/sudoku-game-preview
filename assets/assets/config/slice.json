@@ -117,7 +117,7 @@
   ],
   "homeEnvironments": {
     "core": {
-      "background": "assets/environments/core/core.png",
+      "background": "assets/environments/core/home-cavern.png",
       "embers": true
     }
   }
