@@ -127,7 +127,8 @@
       "surface": "ff171a1d",
       "vein": "ffb3aaa0",
       "clue": "ffffefd8",
-      "accent": "ffff873b"
+      "accent": "ffff873b",
+      "texture": "assets/environments/core/obsidian-marble.png"
     }
   }
 }
