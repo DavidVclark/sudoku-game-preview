@@ -118,7 +118,16 @@
   "homeEnvironments": {
     "core": {
       "background": "assets/environments/core/home-cavern.png",
-      "embers": true
+      "embers": true,
+      "tileMaterial": "coreObsidian"
+    }
+  },
+  "tileMaterials": {
+    "coreObsidian": {
+      "surface": "ff171a1d",
+      "vein": "ffb3aaa0",
+      "clue": "ffffefd8",
+      "accent": "ffff873b"
     }
   }
 }
