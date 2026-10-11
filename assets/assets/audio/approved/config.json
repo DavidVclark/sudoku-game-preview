@@ -1,0 +1,489 @@
+{
+  "project": "NANPURE WRLD",
+  "catalog": "sound-audition-v3-imports",
+  "approvedForProduction": true,
+  "selections": {
+    "selection": "F",
+    "placement": "import-351398",
+    "erase": "B",
+    "row": "import-352293",
+    "column": "import-352293",
+    "box": "import-352293",
+    "victory": "import-153268",
+    "multi": "import-352293",
+    "notes": "import-102918",
+    "scanner": "D",
+    "reveal": "E",
+    "arrow": "F",
+    "bomb": "import-592506",
+    "failure": "import-144757",
+    "retry": "import-102918",
+    "settings": "import-102918",
+    "confirm": "import-102918",
+    "navigate": "import-102918"
+  },
+  "configuration": {
+    "selection": {
+      "silent": true,
+      "option": "F",
+      "filename": null,
+      "source": null,
+      "sourceUrl": null,
+      "originalSha256": null,
+      "previewSha256": null,
+      "processing": null,
+      "playback": null,
+      "productionReady": true,
+      "license": null
+    },
+    "placement": {
+      "silent": false,
+      "option": "import-351398",
+      "filename": "universfield-mouse-click-351398.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/film-special-effects-mouse-click-351398/",
+      "originalSha256": "ff84a21dbf00f642103a86b4326404b8d1c6ede89db2165de13c2506e6b9491d",
+      "previewSha256": "910ff481b1a2759b7261e2fefb4555c075e57c786e4203b98715eb7de4959e72",
+      "processing": {
+        "leadTrimMs": 135.01,
+        "gainDb": -8.87,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 921,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-351398.mp3"
+    },
+    "erase": {
+      "silent": false,
+      "option": "B",
+      "filename": "erase-B.wav",
+      "source": "Original NANPURE synthesis",
+      "sourceUrl": null,
+      "originalSha256": null,
+      "previewSha256": null,
+      "processing": null,
+      "playback": {
+        "start": 0,
+        "end": 173,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": null,
+      "asset": "erase-B.wav"
+    },
+    "row": {
+      "silent": false,
+      "option": "import-352293",
+      "filename": "universfield-new-notification-017-352293.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/film-special-effects-new-notification-017-352293/",
+      "originalSha256": "702b60fd411afe8050295d38a63397e15bcf5909f4e96265ebd2a0bfcaebdb29",
+      "previewSha256": "c901c88280c6400c5661cf732aa206157eda6916985f8829c57cc972598e6637",
+      "processing": {
+        "leadTrimMs": 75.01,
+        "gainDb": -3.9,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1869,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-352293.mp3"
+    },
+    "column": {
+      "silent": false,
+      "option": "import-352293",
+      "filename": "universfield-new-notification-017-352293.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/film-special-effects-new-notification-017-352293/",
+      "originalSha256": "702b60fd411afe8050295d38a63397e15bcf5909f4e96265ebd2a0bfcaebdb29",
+      "previewSha256": "c901c88280c6400c5661cf732aa206157eda6916985f8829c57cc972598e6637",
+      "processing": {
+        "leadTrimMs": 75.01,
+        "gainDb": -3.9,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1869,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-352293.mp3"
+    },
+    "box": {
+      "silent": false,
+      "option": "import-352293",
+      "filename": "universfield-new-notification-017-352293.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/film-special-effects-new-notification-017-352293/",
+      "originalSha256": "702b60fd411afe8050295d38a63397e15bcf5909f4e96265ebd2a0bfcaebdb29",
+      "previewSha256": "c901c88280c6400c5661cf732aa206157eda6916985f8829c57cc972598e6637",
+      "processing": {
+        "leadTrimMs": 75.01,
+        "gainDb": -3.9,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1869,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-352293.mp3"
+    },
+    "victory": {
+      "silent": false,
+      "option": "import-153268",
+      "filename": "universfield-gentle-piano-logo-153268.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/musical-gentle-piano-logo-153268/",
+      "originalSha256": "369db37bfbaacb8000485e6131d72732c3dbac14c4b75bb623c5eb5facd1162f",
+      "previewSha256": "0a4433e52aa64b418be7221544bcb8d4b5107777c7c25acf7597ef6982901810",
+      "processing": {
+        "leadTrimMs": 15.01,
+        "gainDb": 5.9,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 6228,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-153268.mp3"
+    },
+    "multi": {
+      "silent": false,
+      "option": "import-352293",
+      "filename": "universfield-new-notification-017-352293.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/film-special-effects-new-notification-017-352293/",
+      "originalSha256": "702b60fd411afe8050295d38a63397e15bcf5909f4e96265ebd2a0bfcaebdb29",
+      "previewSha256": "c901c88280c6400c5661cf732aa206157eda6916985f8829c57cc972598e6637",
+      "processing": {
+        "leadTrimMs": 75.01,
+        "gainDb": -3.9,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1869,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-352293.mp3"
+    },
+    "notes": {
+      "silent": false,
+      "option": "import-102918",
+      "filename": "freesound_community-mech-keyboard-02-102918 number placement.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/technology-mech-keyboard-02-102918/",
+      "originalSha256": "dff8223dced94604198873fb9a5a32e26b4a319b6e873c51f4b3cd3953fe33bc",
+      "previewSha256": "e1f2f4d03ff375033233929b0f9005a4f804a008af52251e66e08cf423006932",
+      "processing": {
+        "leadTrimMs": 35.01,
+        "gainDb": -7.48,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1309,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-102918.mp3"
+    },
+    "scanner": {
+      "silent": false,
+      "option": "D",
+      "filename": "scanner-D.wav",
+      "source": "Original NANPURE synthesis",
+      "sourceUrl": null,
+      "originalSha256": null,
+      "previewSha256": null,
+      "processing": null,
+      "playback": {
+        "start": 0,
+        "end": 460,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": null,
+      "asset": "scanner-D.wav"
+    },
+    "reveal": {
+      "silent": false,
+      "option": "E",
+      "filename": "reveal-E.wav",
+      "source": "Original NANPURE synthesis",
+      "sourceUrl": null,
+      "originalSha256": null,
+      "previewSha256": null,
+      "processing": null,
+      "playback": {
+        "start": 0,
+        "end": 560,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": null,
+      "asset": "reveal-E.wav"
+    },
+    "arrow": {
+      "silent": false,
+      "option": "F",
+      "filename": "arrow-F.wav",
+      "source": "Original NANPURE synthesis",
+      "sourceUrl": null,
+      "originalSha256": null,
+      "previewSha256": null,
+      "processing": null,
+      "playback": {
+        "start": 0,
+        "end": 320,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": null,
+      "asset": "arrow-F.wav"
+    },
+    "bomb": {
+      "silent": false,
+      "option": "import-592506",
+      "filename": "sdanezis-soft-luxury-air-whoosh-8-592506.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/film-special-effects-soft-luxury-air-whoosh-8-592506/",
+      "originalSha256": "da62989c8d2b8979c3192461adb31212bd130805c2c839dc8b899ffb3454dda8",
+      "previewSha256": "b17e8e85a7bdb7afd25222383098784bae1d3e59beea342f172c6cec133a962c",
+      "processing": {
+        "leadTrimMs": 55.01,
+        "gainDb": -5.69,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1457,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-592506.mp3"
+    },
+    "failure": {
+      "silent": false,
+      "option": "import-144757",
+      "filename": "universfield-reward-chime-144757.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/reward-chime-144757/",
+      "originalSha256": "d7172405a3c2afe435273e80d150de21df5317237da8dd88837ae2b1f22de7c6",
+      "previewSha256": "742b9cfb35370b0e89fc004031e927b4a4da109e48d70b4d60bb701192c1b889",
+      "processing": {
+        "leadTrimMs": 475.01,
+        "gainDb": -0.97,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 2007,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "UNVERIFIED",
+      "asset": "import-144757.mp3"
+    },
+    "retry": {
+      "silent": false,
+      "option": "import-102918",
+      "filename": "freesound_community-mech-keyboard-02-102918 number placement.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/technology-mech-keyboard-02-102918/",
+      "originalSha256": "dff8223dced94604198873fb9a5a32e26b4a319b6e873c51f4b3cd3953fe33bc",
+      "previewSha256": "e1f2f4d03ff375033233929b0f9005a4f804a008af52251e66e08cf423006932",
+      "processing": {
+        "leadTrimMs": 35.01,
+        "gainDb": -7.48,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1309,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-102918.mp3"
+    },
+    "settings": {
+      "silent": false,
+      "option": "import-102918",
+      "filename": "freesound_community-mech-keyboard-02-102918 number placement.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/technology-mech-keyboard-02-102918/",
+      "originalSha256": "dff8223dced94604198873fb9a5a32e26b4a319b6e873c51f4b3cd3953fe33bc",
+      "previewSha256": "e1f2f4d03ff375033233929b0f9005a4f804a008af52251e66e08cf423006932",
+      "processing": {
+        "leadTrimMs": 35.01,
+        "gainDb": -7.48,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1309,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-102918.mp3"
+    },
+    "confirm": {
+      "silent": false,
+      "option": "import-102918",
+      "filename": "freesound_community-mech-keyboard-02-102918 number placement.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/technology-mech-keyboard-02-102918/",
+      "originalSha256": "dff8223dced94604198873fb9a5a32e26b4a319b6e873c51f4b3cd3953fe33bc",
+      "previewSha256": "e1f2f4d03ff375033233929b0f9005a4f804a008af52251e66e08cf423006932",
+      "processing": {
+        "leadTrimMs": 35.01,
+        "gainDb": -7.48,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1309,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-102918.mp3"
+    },
+    "navigate": {
+      "silent": false,
+      "option": "import-102918",
+      "filename": "freesound_community-mech-keyboard-02-102918 number placement.mp3",
+      "source": "Pixabay (owner confirmed)",
+      "sourceUrl": "https://pixabay.com/sound-effects/technology-mech-keyboard-02-102918/",
+      "originalSha256": "dff8223dced94604198873fb9a5a32e26b4a319b6e873c51f4b3cd3953fe33bc",
+      "previewSha256": "e1f2f4d03ff375033233929b0f9005a4f804a008af52251e66e08cf423006932",
+      "processing": {
+        "leadTrimMs": 35.01,
+        "gainDb": -7.48,
+        "fadeMs": 3,
+        "channels": 1,
+        "sampleRate": 44100,
+        "bitrateKbps": 96,
+        "tailTrimMs": 0,
+        "method": "A-weighted active RMS proxy, -26dB target; +8dB boost limit and -4dB peak ceiling. Not LUFS."
+      },
+      "playback": {
+        "start": 0,
+        "end": 1309,
+        "volume": 0.72
+      },
+      "productionReady": true,
+      "license": "Pixabay Content License (page verified)",
+      "asset": "import-102918.mp3"
+    }
+  },
+  "approval": {
+    "approvedBy": "owner",
+    "date": "2026-10-11",
+    "configurationCommit": "f537ee4",
+    "instruction": "Final Audio Integration and Deployment"
+  },
+  "music": {
+    "asset": "journey.m4a",
+    "originalFilename": "andriih-magic-fantasy-fairy-tale-music-601667.mp3",
+    "originalSha256": "833f02b6a80320f1f3f62405c05aca7e696c8a5663aa6ec450d7117279fefcc0",
+    "assetSha256": "69259fab40fe087f397b37174f9d9efa304de768e04afe06604c0e984b45e4a1",
+    "sourceUrl": "https://pixabay.com/es/music/fantas%C3%ADa-y-ni%C3%B1os-so%C3%B1adores-magic-fantasy-fairy-tale-music-601667/",
+    "source": "AndriiH via Pixabay",
+    "license": "Pixabay Content License",
+    "contentIdRegistered": true,
+    "processing": "Whole recording; AAC 128kbps stereo 44.1kHz; MP4 fast-start, no rearrangement or composition changes. Native media loop with encoder delay metadata.",
+    "defaultVolume": 0.16
+  },
+  "rightsVerification": {
+    "date": "2026-10-11",
+    "status": "All selected third-party assets verified on official Pixabay pages under Content License; original synthesized assets are project-created.",
+    "rewardChimeUrl": "https://pixabay.com/sound-effects/film-special-effects-reward-chime-144757/",
+    "musicSource": "Official Pixabay Spanish/French indexed listing of ID 601667 matches owner recording and 2:17 duration.",
+    "musicContentIdRegistered": true,
+    "licenseUrl": "https://pixabay.com/service/terms/"
+  }
+}

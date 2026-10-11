@@ -8,3 +8,7 @@
 - Earth Core environment and volcanic board frame: original generated project artwork. Expedition tool glyphs: original project vector drawing code. Audio and launcher icons: original procedural project assets; generator sources are under `tool/`.
 
 The project does not incorporate artwork or user-interface assets from benchmark games.
+# Approved audio
+
+The owner-supplied Pixabay sound effects and AndriiH background music have source, licensing, processing and Content ID notes in [licenses/NANPURE-AUDIO.md](licenses/NANPURE-AUDIO.md). Project-created synthesized effects are listed separately there.
+
