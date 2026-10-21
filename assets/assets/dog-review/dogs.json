@@ -1,0 +1,253 @@
+{
+  "source": "dogs-source.png",
+  "sourcePixels": [
+    1254,
+    1254
+  ],
+  "spritePixels": [
+    384,
+    384
+  ],
+  "breeds": {
+    "chihuahua": {
+      "concerned": {
+        "bounds": [
+          67,
+          63,
+          316,
+          359
+        ],
+        "sourceBounds": [
+          62,
+          12,
+          313,
+          310
+        ]
+      },
+      "happy": {
+        "bounds": [
+          71,
+          64,
+          312,
+          359
+        ],
+        "sourceBounds": [
+          346,
+          11,
+          589,
+          309
+        ]
+      }
+    },
+    "dachshund": {
+      "concerned": {
+        "bounds": [
+          30,
+          98,
+          354,
+          359
+        ],
+        "sourceBounds": [
+          607,
+          45,
+          934,
+          309
+        ]
+      },
+      "happy": {
+        "bounds": [
+          30,
+          96,
+          353,
+          359
+        ],
+        "sourceBounds": [
+          902,
+          44,
+          1227,
+          309
+        ]
+      }
+    },
+    "beagle": {
+      "concerned": {
+        "bounds": [
+          47,
+          74,
+          336,
+          359
+        ],
+        "sourceBounds": [
+          31,
+          318,
+          322,
+          605
+        ]
+      },
+      "happy": {
+        "bounds": [
+          50,
+          73,
+          334,
+          359
+        ],
+        "sourceBounds": [
+          317,
+          317,
+          603,
+          605
+        ]
+      }
+    },
+    "corgi": {
+      "concerned": {
+        "bounds": [
+          37,
+          77,
+          346,
+          359
+        ],
+        "sourceBounds": [
+          631,
+          318,
+          942,
+          602
+        ]
+      },
+      "happy": {
+        "bounds": [
+          43,
+          76,
+          340,
+          359
+        ],
+        "sourceBounds": [
+          938,
+          317,
+          1237,
+          602
+        ]
+      }
+    },
+    "poodle": {
+      "concerned": {
+        "bounds": [
+          50,
+          51,
+          334,
+          359
+        ],
+        "sourceBounds": [
+          27,
+          603,
+          313,
+          913
+        ]
+      },
+      "happy": {
+        "bounds": [
+          56,
+          51,
+          328,
+          359
+        ],
+        "sourceBounds": [
+          323,
+          602,
+          597,
+          912
+        ]
+      }
+    },
+    "husky": {
+      "concerned": {
+        "bounds": [
+          37,
+          46,
+          347,
+          359
+        ],
+        "sourceBounds": [
+          613,
+          598,
+          925,
+          913
+        ]
+      },
+      "happy": {
+        "bounds": [
+          40,
+          47,
+          344,
+          359
+        ],
+        "sourceBounds": [
+          927,
+          598,
+          1233,
+          912
+        ]
+      }
+    },
+    "golden": {
+      "concerned": {
+        "bounds": [
+          33,
+          25,
+          350,
+          359
+        ],
+        "sourceBounds": [
+          10,
+          906,
+          329,
+          1242
+        ]
+      },
+      "happy": {
+        "bounds": [
+          36,
+          24,
+          347,
+          359
+        ],
+        "sourceBounds": [
+          305,
+          905,
+          618,
+          1242
+        ]
+      }
+    },
+    "great-dane": {
+      "concerned": {
+        "bounds": [
+          36,
+          24,
+          347,
+          359
+        ],
+        "sourceBounds": [
+          609,
+          907,
+          922,
+          1244
+        ]
+      },
+      "happy": {
+        "bounds": [
+          38,
+          21,
+          345,
+          359
+        ],
+        "sourceBounds": [
+          927,
+          904,
+          1236,
+          1244
+        ]
+      }
+    }
+  }
+}

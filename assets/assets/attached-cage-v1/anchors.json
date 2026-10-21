@@ -1,0 +1,50 @@
+{
+  "canvas": [
+    1152,
+    768
+  ],
+  "doorFrame": [
+    576,
+    384
+  ],
+  "doorFrames": 12,
+  "doorColumns": 4,
+  "doorOverscan": 1.5,
+  "lockFrame": [
+    128,
+    160
+  ],
+  "lockFrames": 8,
+  "lockColumns": 4,
+  "haspFrame": [
+    128,
+    224
+  ],
+  "haspFrames": 8,
+  "lockAnchors": [
+    [
+      0.1871287226676941,
+      0.9469114542007446
+    ],
+    [
+      0.5,
+      0.9469114542007446
+    ],
+    [
+      0.8128712773323059,
+      0.9469114542007446
+    ]
+  ],
+  "mechanism": "Door plate + rigid hinged slotted hasp; independent fixed keeper plate and staple; padlock through staple",
+  "baseline": "c7bdd7b; approved Meadow Studio body and camera unchanged",
+  "haspImageAnchor": [
+    0.5,
+    0.8159051537513733
+  ],
+  "haspSpriteWidth": 0.10183875530410183,
+  "lockImageAnchor": [
+    0.5,
+    0.6637673676013947
+  ],
+  "lockSpriteWidth": 0.10455445544554456
+}

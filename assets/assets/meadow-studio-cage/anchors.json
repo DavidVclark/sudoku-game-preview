@@ -1,0 +1,68 @@
+{
+  "canvas": [
+    1152,
+    768
+  ],
+  "doorFrame": [
+    576,
+    384
+  ],
+  "doorFrames": 12,
+  "doorColumns": 4,
+  "doorOverscan": 1.5,
+  "lockFrame": [
+    128,
+    160
+  ],
+  "lockFrames": 8,
+  "lockColumns": 4,
+  "lockAnchors": [
+    [
+      0.1792079359292984,
+      0.767472043633461
+    ],
+    [
+      0.5,
+      0.767472043633461
+    ],
+    [
+      0.8207920789718628,
+      0.767472043633461
+    ]
+  ],
+  "animalRegistration": {
+    "floorY": 0.872,
+    "groundY": 0.986,
+    "sizeScale": 0.76,
+    "poseBottom": [
+      0.9019337016574586,
+      0.9005524861878453,
+      0.8908839779005525
+    ],
+    "poseCenter": [
+      0.4993093922651934,
+      0.5,
+      0.5
+    ],
+    "poseSourceX": [
+      58,
+      730,
+      1414
+    ]
+  },
+  "lockImageAnchor": [
+    0.5,
+    0.7262107729911804
+  ],
+  "lockSpriteWidth": 0.12039603960396042,
+  "model": "True beveled ivory/sage Blender enclosure with enclosed rear, floor, roof, thick silver barred gate and three mounted brass clasps.",
+  "camera": {
+    "location": [
+      0.0,
+      -12.0,
+      4.050000190734863
+    ],
+    "orthoScale": 5.050000190734863
+  },
+  "source": "Meadow Studio reference • hand-built deterministic mesh, no generated animation frames"
+}

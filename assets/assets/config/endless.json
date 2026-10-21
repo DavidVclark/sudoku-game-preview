@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "scoring": {"unit":100,"doubleCombo":100,"tripleCombo":250,"board":500},
+  "difficulty": [
+    {"score":0,"technique":0,"name":"Naked singles"},
+    {"score":2500,"technique":1,"name":"Hidden singles"},
+    {"score":6500,"technique":2,"name":"Locked candidates"},
+    {"score":12000,"technique":3,"name":"Naked pairs"}
+  ],
+  "worlds": [
+    {"score":0,"id":"core","name":"Earth’s Core","background":"assets/environments/core/core.png"},
+    {"score":5000,"id":"surface","name":"Surface","background":"assets/environments/core/core.png"},
+    {"score":10000,"id":"nature","name":"Nature","background":"assets/environments/core/core.png"},
+    {"score":18000,"id":"sky","name":"Sky","background":"assets/clear-glass-v2/sky.webp"},
+    {"score":28000,"id":"space","name":"Space","background":"assets/clear-glass-v2/dark.webp"},
+    {"score":45000,"id":"beyond","name":"Beyond","background":"assets/clear-glass-v2/dark.webp"}
+  ]
+}
