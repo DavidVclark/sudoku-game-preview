@@ -1,11 +1,11 @@
 {
-  "name": "NANPURE WRLD",
-  "short_name": "NANPURE WRLD",
+  "name": "NANPURE WRLD \u2014 Device Preview",
+  "short_name": "NANPURE Preview",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#060c20",
   "theme_color": "#060c20",
-  "description": "NANPURE WRLD — A Sudoku Journey.",
+  "description": "Separate Easy-puzzle device preview. Progress is local to this browser.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [

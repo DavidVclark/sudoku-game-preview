@@ -1,6 +1,43 @@
 {
+  "commit": "ea6447abb019e3e109ee276e8536d19005801b09",
+  "branch": "codex/rescue-framing-notes",
+  "baseline": "6cefbe6",
+  "previousDeploymentCommit": "fd78b68724f2984649bcc042ee2196af06a7188c",
+  "entryPoint": "lib/main_device_preview.dart",
+  "configuration": "config/device-preview.json",
+  "features": {
+    "IPHONE_PREVIEW": true,
+    "POCKET_MEADOW": true,
+    "CAPYBARA_TRANSPORT_REVIEW": true,
+    "SPECIES_TRANSPORT_REVIEW": true,
+    "DOG_RESCUES": true,
+    "CONTINUOUS_RESCUES": true,
+    "MAGICAL_RETURN_REVIEW": true,
+    "KOI_RESCUES": true,
+    "BIRD_RESCUES": true,
+    "CARDINAL_C_REVIEW": true,
+    "UNIVERSAL_RESCUE_PRESENTATION": true,
+    "ANIMAL_WARDROBE": false,
+    "ENDLESS_DEV_TOOLS": false,
+    "DEV_TOOLS": false,
+    "SHOW_TIME_ATTACK": false,
+    "SANCTUARY_BOARD_THEMES": true,
+    "POCKET_MEADOW_RELIC": true,
+    "SANCTUARY_RELIC_VARIANTS": true,
+    "DEVICE_TEST_PREVIEW": true,
+    "EASY_DEVICE_PUZZLES": true
+  },
+  "database": "nanpure_device_easy_20261029_v1",
+  "newPuzzles": {
+    "difficulty": "Easy",
+    "clues": "40\u201345",
+    "unique": true,
+    "techniques": "naked singles"
+  },
+  "mainJsSha256": "a8b628752d79319d3678387baf4bede6b21d03d0c9b103a008721f96e90a7ea1",
   "repository": "DavidVclark/sudoku-game",
-  "commit": "119869be27f9b2babefa39429c5aad7501e28bb7",
-  "run_id": "39669329275",
-  "version": "0.1.0"
+  "hosting": "GitHub Pages public compiled preview",
+  "url": "https://davidvclark.github.io/sudoku-game-preview/",
+  "previousGithubDeploymentCommit": "119869be27f9b2babefa39429c5aad7501e28bb7",
+  "sourceDocumentationCommit": "9d55e53"
 }
